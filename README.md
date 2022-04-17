@@ -8,4 +8,4 @@ Originally provided by @snazzybloke | Forked/Distributed by: @gabswastaken
 
 > Download the `drained.py` file by click on the green "CODE" button and download zip.
 > Extract the zip file and do as the following gif shows
-> !(https://i.imgur.com/Vk3IUI4.gif)
+> ![Press enter after typing cmd](https://i.imgur.com/Vk3IUI4.gif)
