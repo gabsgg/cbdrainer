@@ -13,7 +13,7 @@ def main():
 |  $$$$$$$| $$     |  $$$$$$$| $$| $$  | $$|  $$$$$$$|  $$$$$$$
  \_______/|__/      \_______/|__/|__/  |__/ \_______/ \_______/                              
                                                                                                      
-Original Coder: @snazzybloke | Forked/Distributed by: @gabswastaken | fuck outbase imagine selling a drainer
+Original Coder: @snazzybloke | fuck outbase imagine selling a drainer
 
 	''')
         key = input("<~> API KEY > ")
