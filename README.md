@@ -1,7 +1,7 @@
 # cbdrainer
 Coinbase drainer to remove funds from your account quickly during a "crypto crash".
 
-Originally provided by @snazzybloke | Forked/Distributed by: @gabswastaken
+Originally provided by @snazzybloke 
 (Telegram)
 
 # Pre-Setup
